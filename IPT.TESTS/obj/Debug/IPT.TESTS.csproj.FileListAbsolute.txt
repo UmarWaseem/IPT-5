@@ -1,0 +1,15 @@
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\obj\Debug\IPT.TESTS.csprojAssemblyReference.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\obj\Debug\IPT.TESTS.csproj.CoreCompileInputs.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.TESTS.exe.config
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.TESTS.exe
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.TESTS.pdb
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\EntityFramework.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.Database.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.Database.pdb
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\IPT.Database.dll.config
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\EntityFramework.xml
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\obj\Debug\IPT.TESTS.csproj.CopyComplete
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\obj\Debug\IPT.TESTS.exe
+C:\Users\Umar\source\repos\IPT-5\IPT.TESTS\obj\Debug\IPT.TESTS.pdb

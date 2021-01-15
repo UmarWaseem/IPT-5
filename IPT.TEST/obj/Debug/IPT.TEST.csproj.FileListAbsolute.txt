@@ -1,0 +1,12 @@
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\obj\Debug\IPT.TEST.csprojAssemblyReference.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\obj\Debug\IPT.TEST.csproj.CoreCompileInputs.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\IPT.TEST.exe
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\IPT.TEST.pdb
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\IPT.Database.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\EntityFramework.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\IPT.Database.pdb
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\IPT.Database.dll.config
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\bin\Debug\EntityFramework.xml
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\obj\Debug\IPT.TEST.csproj.CopyComplete
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\obj\Debug\IPT.TEST.exe
+C:\Users\Umar\source\repos\IPT-5\IPT.TEST\obj\Debug\IPT.TEST.pdb

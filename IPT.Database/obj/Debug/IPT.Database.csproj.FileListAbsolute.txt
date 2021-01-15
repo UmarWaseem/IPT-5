@@ -1,0 +1,12 @@
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\IPT.Database.dll.config
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\IPT.Database.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\IPT.Database.pdb
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\EntityFramework.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\EntityFramework.xml
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\obj\Debug\IPT.Database.csprojAssemblyReference.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\obj\Debug\IPT.Database.csproj.CoreCompileInputs.cache
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\obj\Debug\IPT.Database.csproj.CopyComplete
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\obj\Debug\IPT.Database.dll
+C:\Users\Umar\source\repos\IPT-5\IPT.Database\obj\Debug\IPT.Database.pdb
